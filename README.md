@@ -4,10 +4,9 @@ To learn how to use these files visit:
 
 http://wwww.leejingwei.com/foo/bar
 
-If you can't view the full list of dotfiles please type the following into the terminal: 
+If you can't view the full list of dotfiles after cloning the repo please type the following into the terminal: 
 
 ```
-
 defaults write com.apple.finder AppleShowAllFiles 1
 ```
 
