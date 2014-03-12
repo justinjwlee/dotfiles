@@ -17,6 +17,5 @@ function installcask() {
 # installcask the-unarchiver
 # installcask tor-browser
 installcask transmission
-#installcask ukelele
 installcask virtualbox
 installcask vlc
