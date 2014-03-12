@@ -2,7 +2,7 @@
 
 To learn how to use these files visit:
 
-http://wwww.leejingwei.com/foo/bar
+http://www.leejingwei.com/foo/bar
 
 If you can't view the full list of dotfiles after cloning the repo please type the following into the terminal: 
 
@@ -10,4 +10,4 @@ If you can't view the full list of dotfiles after cloning the repo please type t
 defaults write com.apple.finder AppleShowAllFiles 1
 ```
 
-> The best things in the world are free.
+> The resources listed here are mostly (shamelessly) cloned from https://github.com/s10wen/dotfiles
