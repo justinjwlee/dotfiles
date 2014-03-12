@@ -26,17 +26,6 @@ chmod +x ~/z/z.sh
 
 # z binary is already referenced from .bash_profile
 
-
-# https://github.com/dronir/SpotifyControl
-# Spotify Controll Script
-#cd ~/code
-#git clone git://github.com/dronir/SpotifyControl.git
-
-# https://github.com/jeroenbegyn/VLCControl
-# VLC Controll Script
-#cd ~/code
-#git clone git://github.com/jeroenbegyn/VLCControl.git
-
 # for the c alias (syntax highlighted cat)
 #sudo easy_install Pygments
 
