@@ -28,6 +28,8 @@ install wget --enable-iri
 install tree
 #install webkit2png
 #install zopfli
+#install gfortran
+#install octave
 
 # Remove outdated versions from the cellar
 cleanup
